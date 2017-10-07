@@ -7,4 +7,4 @@ Test repository to learn Git with.
 - Olohireme Ajayi
 - Echubi Udale-Ameh
 - Arausi Daniel
-- Ayodele
+- Oluwabusola Ayodele
